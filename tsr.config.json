@@ -1,0 +1,6 @@
+{
+  "routesDirectory": "./apps/desktop-front/src/routes",
+  "generatedRouteTree": "./apps/desktop-front/src/route-tree.ts",
+  "routeFileIgnorePrefix": "-",
+  "quoteStyle": "single"
+}
